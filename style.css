@@ -46,7 +46,7 @@ main img {
 #wish{
       font-family: "Sofia", sans-serif;
       display: inline-block;
-      margin-top: 260px;
+      margin-top: 250px;
       margin-left: 75px;
       font-size: 40px;
       color: white;
@@ -54,7 +54,7 @@ main img {
 #person{
       text-align: inherit;
       margin-top: 5px;
-      margin-left: 83px;
+      margin-left: 78px;
       font-size: 80px;
       text-transform: uppercase;
       color: red;
