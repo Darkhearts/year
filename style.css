@@ -1,0 +1,81 @@
+body {
+      
+      background: url("bomb.gif");
+      background-repeat:no-repeat;
+      background-attachment:fixed;
+      background-size:100% 100%;
+      margin:0;
+      }
+      
+      
+  
+main {
+      position:absolute;
+      width:100%;
+      height: 100%;
+      }
+main img {
+          shape-outside: border-box;
+          position: relative;
+          width:250px;
+          height: 300px;
+          top:-10px;
+          left:60px;
+      }
+
+.BTN {
+      position:fixed;
+      bottom:0;
+      width:100%;
+      height:70px;
+      background:linear-gradient(blue,skyblue);
+      padding:5px 10px;
+      }
+.BTN button {
+             width:340px;
+             height:60px;
+             font-size:18px;
+             font-weight:bolder;
+             border:none;
+             border-radius:40px;
+             background:green;
+             color:white;
+             animation:jump 7s ease infinite;
+}
+
+#wish{
+      font-family: "Sofia", sans-serif;
+      display: inline-block;
+      margin-top: 250px;
+      margin-left: 80px;
+      font-size: 40px;
+      color: white;
+}
+#person{
+      text-align: inherit;
+      margin-top: 10px;
+      margin-left: 60px;
+      font-size: 80px;
+      text-transform: uppercase;
+      color: red;
+      text-shadow: black 5px 5px 10px;
+      
+}
+#onwer{
+                  color: white;
+                  margin: -5px 50px;
+                  padding: 0px;
+                  display: flex;
+                  position: absolute;
+ }
+          
+
+@keyframes jump{
+                50%{background:linear-gradient(skyblue, blue);
+                    color:white;}
+                60%{background:linear-gradient(orange,red);
+                    color:black;}
+                100%{background:linear-gradient(gray,yellow);
+                     color:blue;}
+                }
+
