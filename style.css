@@ -47,9 +47,9 @@ main img {
       font-family: "Sofia", sans-serif;
       display: inline-block;
       margin-top: 250px;
-      margin-left: 78px;
+      margin-left: 70px;
       font-size: 20px;
-      color: white;
+      color: red;
 }
 #person{
       text-align: inherit;
@@ -57,7 +57,7 @@ main img {
       margin-left: 60px;
       font-size: 70px;
       text-transform: uppercase;
-      color: red;
+      color: white;
       text-shadow: black 5px 5px 10px;
       
 }
