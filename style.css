@@ -20,7 +20,7 @@ main img {
           width:250px;
           height: 300px;
           top:-10px;
-          left:60px;
+          left:50px;
       }
 
 .BTN {
@@ -47,7 +47,7 @@ main img {
       font-family: "Sofia", sans-serif;
       display: inline-block;
       margin-top: 250px;
-      margin-left: 75px;
+      margin-left: 65px;
       font-size: 40px;
       color: white;
 }
@@ -63,7 +63,7 @@ main img {
 }
 #onwer{
                   color: white;
-                  margin: -3px 50px;
+                  margin: -5px 50px;
                   padding: 0px;
                   display: flex;
                   position: absolute;
