@@ -20,7 +20,7 @@ main img {
           width:250px;
           height: 300px;
           top:-10px;
-          left:50px;
+          left:57px;
       }
 
 .BTN {
@@ -47,14 +47,14 @@ main img {
       font-family: "Sofia", sans-serif;
       display: inline-block;
       margin-top: 250px;
-      margin-left: 65px;
+      margin-left: 72px;
       font-size: 40px;
       color: white;
 }
 #person{
       text-align: inherit;
       margin-top: 10px;
-      margin-left: 80px;
+      margin-left: 83px;
       font-size: 80px;
       text-transform: uppercase;
       color: red;
